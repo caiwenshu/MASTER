@@ -43,6 +43,7 @@
 		A404800D1C3B996D00760B9E /* MASTERTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MASTERTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A40480121C3B996D00760B9E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A40480131C3B996D00760B9E /* MASTERTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MASTERTests.m; sourceTree = "<group>"; };
+		A4668D211C3B9CED00A045DB /* Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +95,7 @@
 				A40480041C3B996D00760B9E /* Images.xcassets */,
 				A40480061C3B996D00760B9E /* LaunchScreen.xib */,
 				A4047FF41C3B996D00760B9E /* Supporting Files */,
+				A4668D211C3B9CED00A045DB /* Header.h */,
 			);
 			path = MASTER;
 			sourceTree = "<group>";
@@ -422,6 +424,7 @@
 				A40480191C3B996D00760B9E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A404801A1C3B996D00760B9E /* Build configuration list for PBXNativeTarget "MASTERTests" */ = {
 			isa = XCConfigurationList;
@@ -430,6 +433,7 @@
 				A404801C1C3B996D00760B9E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
