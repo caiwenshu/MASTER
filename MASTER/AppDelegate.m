@@ -20,6 +20,7 @@
     
     NSLog(@"master_001");
     
+    NSLog(@"主分支啊。你们想干嘛");
     return YES;
 }
 

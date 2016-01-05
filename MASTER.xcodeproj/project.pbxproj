@@ -45,6 +45,7 @@
 		A40480121C3B996D00760B9E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A40480131C3B996D00760B9E /* MASTERTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MASTERTests.m; sourceTree = "<group>"; };
 		A48CC98D1C3B9C9000395890 /* master.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = master.m; sourceTree = "<group>"; };
+		A4668D211C3B9CED00A045DB /* Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +98,7 @@
 				A40480041C3B996D00760B9E /* Images.xcassets */,
 				A40480061C3B996D00760B9E /* LaunchScreen.xib */,
 				A4047FF41C3B996D00760B9E /* Supporting Files */,
+				A4668D211C3B9CED00A045DB /* Header.h */,
 			);
 			path = MASTER;
 			sourceTree = "<group>";
