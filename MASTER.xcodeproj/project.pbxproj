@@ -15,6 +15,7 @@
 		A40480051C3B996D00760B9E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A40480041C3B996D00760B9E /* Images.xcassets */; };
 		A40480081C3B996D00760B9E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A40480061C3B996D00760B9E /* LaunchScreen.xib */; };
 		A40480141C3B996D00760B9E /* MASTERTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A40480131C3B996D00760B9E /* MASTERTests.m */; };
+		A48CC98E1C3B9C9000395890 /* master.m in Sources */ = {isa = PBXBuildFile; fileRef = A48CC98D1C3B9C9000395890 /* master.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,7 @@
 		A404800D1C3B996D00760B9E /* MASTERTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MASTERTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A40480121C3B996D00760B9E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A40480131C3B996D00760B9E /* MASTERTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MASTERTests.m; sourceTree = "<group>"; };
+		A48CC98D1C3B9C9000395890 /* master.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = master.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 		A4047FF31C3B996D00760B9E /* MASTER */ = {
 			isa = PBXGroup;
 			children = (
+				A48CC98D1C3B9C9000395890 /* master.m */,
 				A4047FF81C3B996D00760B9E /* AppDelegate.h */,
 				A4047FF91C3B996D00760B9E /* AppDelegate.m */,
 				A4047FFB1C3B996D00760B9E /* FirstViewController.h */,
@@ -227,6 +230,7 @@
 				A40480001C3B996D00760B9E /* SecondViewController.m in Sources */,
 				A4047FFA1C3B996D00760B9E /* AppDelegate.m in Sources */,
 				A4047FFD1C3B996D00760B9E /* FirstViewController.m in Sources */,
+				A48CC98E1C3B9C9000395890 /* master.m in Sources */,
 				A4047FF71C3B996D00760B9E /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -422,6 +426,7 @@
 				A40480191C3B996D00760B9E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A404801A1C3B996D00760B9E /* Build configuration list for PBXNativeTarget "MASTERTests" */ = {
 			isa = XCConfigurationList;
@@ -430,6 +435,7 @@
 				A404801C1C3B996D00760B9E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
